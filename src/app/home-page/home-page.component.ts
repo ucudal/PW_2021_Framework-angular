@@ -12,11 +12,12 @@ export class HomePageComponent implements OnInit {
 
 
   ngOnInit() {
-    this.title = "Backstreet Bakery Todo App";
+    this.title = "Agregar elementos a la lista:";
   }
 
   updateList() {
     this.todoItems.push(this.todoItem);
     this.todoItem = '';
+    console.log(this.todoItem)
   }
 }

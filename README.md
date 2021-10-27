@@ -2,7 +2,7 @@
 
 
 
-##Framework o librería:
+## Framework o librería:
 Angular es sin lugar a dudas un ejemplo de framework. Desde que creamos un proyecto con Angular este nos resuelve el problema de la estructura del mismo, instala typescript en el proyecto, contiene módulos para resolver problemas como las llamadas http, el routing de la aplicación, establecer un patrón de inyección de dependencias entre otros problemas del tipo de aplicaciones para el cual está orientado. 
 Además de esto el framework inserta flujo en las aplicaciones a través de propiedades de los elementos html específicas de angular, integración con typescript automática de cada componente y un sistema de output/input de los componentes que hace que puedan tomar información como parámetro y mandar información a su/sus componente/es padre levantando un evento. 
 ###Algunas de las propiedades de elementos usadas en html:

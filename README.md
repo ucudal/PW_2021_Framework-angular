@@ -19,6 +19,7 @@ Además de esto el framework inserta flujo en las aplicaciones a través de prop
 - [ngStyle] permite evaluar una o más expresiones booleanas del typescript del componente para aplicar uno o varios estilos al elemento html. Por ejemplo <some-element [ngStyle]="{'font-style': styleExp}">...</some-element>
 - [ngClass] es similar a ngStyle pero en este caso sirve para aplicar una clase sobre el elemento y no un solo estilo. Por ejemplo: <some-element [ngClass]="{'first': true, 'second': true, 'third': false}">...</some-element> en este caso se usa la sintaxis  con varias clases.
 
+
 ## Nivel de mantenimiento y comunidad
 ### Versiones 
 La primera versión de Angular es lanzada en 2010 con el nombre “Angular JS”, a medida que se populariza adopta un nombre más corto “Angular” pero hace referencia al mismo producto . Luego se lanza la segunda versión “Angular 2” que implicó reescribir prácticamente todo el código ya que se hace uso de typescript, en este momento “Angular JS” y “Angular” en su versión 2, pasan a ser diferentes productos     
@@ -43,10 +44,10 @@ En cuanto al soporte, Las Mayor releases son soportadas normalmente por 18 meses
 Cuando una función o Api queda obsoleta sigue estando disponible por las 2 siguientes Mayor Releases para permitir un periodo de actualización, en la siguiente Mayor Release las funciones y apis obsoletas serán removidas por lo que las aplicaciones antiguas dejarán de funcionar. Se puede acceder a los anuncios de las funciones o apis que serán marcadas como obsoletas en el archivo de Changelog.md https://github.com/angular/angular/blob/master/CHANGELOG.md
 
 ### Comunidades
-Exite gran variedad de comunidades,oficialmente angular promociona varias de ellas como los hilos oficiales de redit, angularcommunity.net, su canal oficial de youtube con mas de 100k de seguidores, guithub, etc 
+Exite gran variedad de comunidades,oficialmente angular promociona varias de ellas como los hilos oficiales de reddit, angularcommunity.net, su canal oficial de youtube con mas de 100k de seguidores, guithub, etc 
 El listado oficial se puede encontrar en https://angular.io/resources?category=community
 
-### Alguno números con respecto a la actividad en github
+### Algunos números con respecto a la actividad en github
 * Watchers 3.2 k
 * Stars 77.3 k
 * Forks 20.3 k

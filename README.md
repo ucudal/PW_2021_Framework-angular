@@ -22,7 +22,7 @@ Además de esto el framework inserta flujo en las aplicaciones a través de prop
 
 ## Nivel de mantenimiento y comunidad
 ### Versiones 
-La primera versión de Angular es lanzada en 2010 con el nombre “Angular JS”, a medida que se populariza adopta un nombre más corto “Angular” pero hace referencia al mismo producto . Luego se lanza la segunda versión “Angular 2” que implicó reescribir prácticamente todo el código ya que se hace uso de typescript, en este momento “Angular JS” y “Angular” en su versión 2, pasan a ser diferentes productos     
+La primera versión de Angular es lanzada en 2010 con el nombre “Angular JS”, a medida que se populariza los desarrolladores se dan cuanta de que la base de angularjs no era eficiente para aplicaciones muy compejas y escalables por lo que deciden hacer una reingenieria total del proyecto , es asi que se crea la segunda versión “Angular 2” que implicó reescribir prácticamente todo el código el cual hace hace uso de typescript, en este momento “Angular JS” y “Angular” en su versión 2, pasan a ser diferentes productos     
 
 ### Versión estable
 La versión estable es v12.2.11 , los números de las versiones se dividen en “major.minor.patch” en este caso major version 12 , minor version 2 y patch level 11

@@ -47,6 +47,9 @@ Cuando una función o Api queda obsoleta sigue estando disponible por las 2 sigu
 Exite gran variedad de comunidades,oficialmente angular promociona varias de ellas como los hilos oficiales de reddit, angularcommunity.net, su canal oficial de youtube con mas de 100k de seguidores, guithub, etc 
 El listado oficial se puede encontrar en https://angular.io/resources?category=community
 
+##Curva de aprendizaje
+Angular es un framework que lleva tiempo aprender, esto es ya que no es una librería como puede ser react sino que es un framework completo y por ende tiene muchos componentes de los cuales se tiene que aprender. Estos componentes son el uso de typescript que no mucha gente está acostumbrada, este contiene módulos ya existente para http y routing que cambian con las versiones de angular y hacen que dependiendo de en cual este como funciona y otros componentes que hacen que angular tenga una curva de aprendizaje empinada
+
 ### Algunos números con respecto a la actividad en github
 * Watchers 3.2 k
 * Stars 77.3 k
